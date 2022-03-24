@@ -1,11 +1,11 @@
 .title{
-  margin: 20px 0px 10px -70px;
+  margin: 0px 0px 10px -70px;
 }
 .list{
   list-style: none;
   display: flex;
   flex-direction: column;
-  text-align: left;
+  /* text-align: left; */
   margin: 0;
 }
 .item{
