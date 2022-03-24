@@ -57,4 +57,5 @@ ContactForm.propTypes = {
   name: PropTypes.string,
   number: PropTypes.number,
 };
+
 export default ContactForm;
